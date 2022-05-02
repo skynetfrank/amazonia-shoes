@@ -53,7 +53,7 @@ function App() {
 							<img className='logo' src={logo} alt='' />
 						</Link>
 						<Link className='brand' to='/'>
-							Paul-Shop
+							Paul-Shop 1
 						</Link>
 					</div>
 					<div>
